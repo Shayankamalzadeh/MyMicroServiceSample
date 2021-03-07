@@ -1,0 +1,12 @@
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\bin\Debug\net5.0\sample.Common.deps.json
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\bin\Debug\net5.0\sample.Common.dll
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\bin\Debug\net5.0\ref\sample.Common.dll
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\bin\Debug\net5.0\sample.Common.pdb
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.csprojAssemblyReference.cache
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.AssemblyInfoInputs.cache
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.AssemblyInfo.cs
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.csproj.CoreCompileInputs.cache
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.dll
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\ref\sample.Common.dll
+C:\4-Project\Microservice\MyMicroServiceSample\src\sample.Common\obj\Debug\net5.0\sample.Common.pdb
