@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w9kaCKivAUZDMb+CtT1h2XnZsYfaEQhvTFc0VvH9KodMrtMoaAoub8DKvFyFl+tXDe3jRULK9BW+YZtFIK68yg==",
+  "dgSpecHash": "VAffscUdocWBT5gsk9z3nu88xOMEd13NYvvXiSnnnYIIwALDzwkEf71ANDq0iUOeRMBmYJRuks7NmMXjkGy4KQ==",
   "success": true,
   "projectFilePath": "C:\\4-Project\\Microservice\\MyMicroServiceSample\\src\\sample.Services.Identity\\sample.Services.Identity.csproj",
   "expectedPackageFiles": [

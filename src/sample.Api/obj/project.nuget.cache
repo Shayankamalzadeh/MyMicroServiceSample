@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5TRssbai511k9fsUvVQylGHuq7MykhY6EL64dPSpdcpXsYTUa/xt4z7Mer9/C5hH/imxKPm0fY/97oViri+OKQ==",
+  "dgSpecHash": "N98E2S85pzXvsHpVJlGxJUPwYxowxaEYV6ZKtkHMHL+QOxN3wgJO4v9D5wjq3M+e7FcfmsYxLnMo1WEI7DgDog==",
   "success": true,
   "projectFilePath": "C:\\4-Project\\Microservice\\MyMicroServiceSample\\src\\sample.Api\\sample.Api.csproj",
   "expectedPackageFiles": [

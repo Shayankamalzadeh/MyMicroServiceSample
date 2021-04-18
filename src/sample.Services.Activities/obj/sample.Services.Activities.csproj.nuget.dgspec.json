@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\4-Project\\Microservice\\MyMicroServiceSample\\src\\sample.Common\\sample.Common.csproj": {
-                "projectPath": "C:\\4-Project\\Microservice\\MyMicroServiceSample\\src\\sample.Common\\sample.Common.csproj"
+              "C:\\4-Project\\Microservice\\MyMicroServiceSample\\src\\sample.common\\sample.common.csproj": {
+                "projectPath": "C:\\4-Project\\Microservice\\MyMicroServiceSample\\src\\sample.common\\sample.common.csproj"
               }
             }
           }

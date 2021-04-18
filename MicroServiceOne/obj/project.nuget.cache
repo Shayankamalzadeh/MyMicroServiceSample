@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4Nu/a6tAcMP3x92+ih6vN7jU9V89x3FRFggMI7/XxW4EXj8oYWnIZxx6GQeRkYX6uR+jSwCZiMmvqT+HfgN2w==",
+  "success": true,
+  "projectFilePath": "C:\\4-Project\\Microservice\\MyMicroServiceSample\\MicroServiceOne\\MicroServiceOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shayan\\.nuget\\packages\\mongodb.bson\\2.12.2\\mongodb.bson.2.12.2.nupkg.sha512",
+    "C:\\Users\\shayan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
