@@ -5,7 +5,11 @@ using System.Threading.Tasks;
 
 namespace MicroServiceOne.Config
 {
-    public class IMicroserviceOneDatabaseSetting
+    public interface IMicroserviceOneDatabaseSetting
     {
+        string ConnectionString { get; set; }
+        string DatabaseName { get; set; }
+        string CollectionName { get; set; }
     }
+
 }
