@@ -1,4 +1,5 @@
 using MicroServiceOne.Config;
+using MicroServiceOne.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -31,6 +32,8 @@ namespace MicroServiceOne
             services.Configure<MicroserviceOneDatabaseSetting>(Configuration.GetSection(nameof(MicroserviceOneDatabaseSetting)));
             services.AddSingleton<IMicroserviceOneDatabaseSetting>(sp =>
              sp.GetRequiredService<IOptions<MicroserviceOneDatabaseSetting>>().Value);
+
+            services.AddTransient<IMicroserviceOneContext, MicroserviceOneContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
